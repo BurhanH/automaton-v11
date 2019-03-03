@@ -20,6 +20,7 @@ Maven (software project management) <br>
    `-- src
        `-- test
            `-- java
+               `-- com.automaton.selenium
                |-- TestNGAnnotation.java
 ```
 
