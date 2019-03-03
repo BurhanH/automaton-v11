@@ -1,3 +1,5 @@
+package com.automaton.selenium;
+
 import org.testng.annotations.*;
 
 public class TestNGAnnotation {
