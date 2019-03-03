@@ -6,8 +6,9 @@ Automation framework (UI) - an example. Based on Java, Selenium, TestNG
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/40323155236c40dfb69d522625698323)](https://www.codacy.com/app/BurhanH/automaton-v11?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BurhanH/automaton-v11&amp;utm_campaign=Badge_Grade)
 
 ## Requirements
-JDK 11.0.1, TestNG 6.8, <br>
-Maven (software project management) <br>
+JDK 11.0.1, TestNG 6.8, Selenium 3.141.59, <br>
+Maven (software project management), <br>
+Firefox 65.*, geckodriver 0.24 <br>
 
 ## Project structure
 ```text
@@ -22,6 +23,7 @@ Maven (software project management) <br>
            `-- java
                `-- com.automaton.selenium
                |-- TestNGAnnotation.java
+               |-- TestGoogleSearch.java
 ```
 
 To be continue ...
