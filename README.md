@@ -24,6 +24,7 @@ Firefox 65.*, geckodriver 0.24 <br>
                `-- com.automaton.selenium
                |-- TestNGAnnotation.java
                |-- TestGoogleSearch.java
+               |-- TestBlog.java
 ```
 
 To be continue ...
