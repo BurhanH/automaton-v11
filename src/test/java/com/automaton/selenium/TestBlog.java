@@ -52,11 +52,11 @@ public class TestBlog {
         // 3
         WebElement element = driver.findElement(By.cssSelector(".page-link:nth-of-type(2)"));
         // 4
-        Assert.assertTrue(element.isDisplayed(), "Project Automation link is not presented!");
+        Assert.assertTrue(element.isDisplayed(), "Projects link is not presented!");
         // 5
         element.click();
         // 6
-        Assert.assertEquals(driver.getCurrentUrl(), "https://burhanh.github.io/automaton/");
+        Assert.assertEquals(driver.getCurrentUrl(), "https://burhanh.github.io/projects/");
         // 7
         WebElement element1 = driver.findElement(By.cssSelector("[title='Automaton-v11 project']"));
         // 8
