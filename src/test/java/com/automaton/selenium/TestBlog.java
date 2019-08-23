@@ -65,7 +65,7 @@ public class TestBlog {
 
     private static boolean isClickable(WebElement element, WebDriver driver) {
         /*
-         * This method helps to verify that a web element is clickable or not. Syntactic Sugar?
+         * This method helps to verify that a web element is clickable or not.
          *
          * @param element       a web element for verification
          * @param driver        a web driver instance
