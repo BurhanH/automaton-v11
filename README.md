@@ -8,7 +8,7 @@ Automation testing framework (UI) - an example. Based on Java, Selenium, TestNG
 ## Requirements
 JDK 11.0.1, TestNG 6.8, Selenium 3.141.59, <br>
 Maven (software project management), <br>
-Firefox 70.*, geckodriver 0.26.0 <br>
+Firefox 71.*, geckodriver 0.26.0 <br>
 
 ## Project structure
 ```text
