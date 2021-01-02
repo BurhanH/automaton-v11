@@ -29,7 +29,7 @@ Firefox 75.0, geckodriver 0.26.0 <br>
                |-- TestBlog.java
 ```
 
-## Techology stack and helpful info
+## Technology stack and helpful info
 [Open JDK](https://openjdk.java.net/) <br>
 [Maven](https://maven.apache.org/what-is-maven.html) <br>
 [GitHub, cloning repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) <br>
